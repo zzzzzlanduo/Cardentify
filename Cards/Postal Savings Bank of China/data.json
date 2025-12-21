@@ -42,6 +42,7 @@
             "source": "云闪付",
             "ext": "png"
         },
+             {
                     "description": "胖虎卡",
             "card": {
                 "type": "Debit",
@@ -52,6 +53,7 @@
             "source": "云闪付",
             "ext": "png"
         },
+             {
                     "description": "乡村振兴卡",
             "card": {
                 "type": "Debit",
